@@ -1,6 +1,7 @@
 
 {
   "name": "Heroku Connect Rails Demo",
+  "stack": "heroku-20"
   "description": "A super basic rails CRUD app to showcase Heroku Connect.",
   "website": "https://github.com/tsykoduk/HCRailsDemo",
   "repository": "https://github.com/tsykoduk/HCRailsDemo",
